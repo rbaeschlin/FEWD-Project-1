@@ -1,2 +1,2 @@
-# FEWD-Project-1
+# FEWD Project 1
  FEWD Techdegree Project 1
