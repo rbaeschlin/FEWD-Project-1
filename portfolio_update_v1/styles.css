@@ -55,6 +55,7 @@ a:hover {
   color: white
 }
 
+
 header {
   text-align: center;
   background: url('images/countryside.jpg') no-repeat center ;
@@ -74,7 +75,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.5) rotate(10deg);
 }
 .tag {
   background-color: #efefef;
@@ -86,7 +87,7 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: white;
 }
 .card {
   margin: 30px;
@@ -100,6 +101,15 @@ header .profile-image:hover {
 }
 .card:hover {
   border-color: #ff99ff;
+}
+
+.hobbies-image {
+  margin: 25px;
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  border: 3px solid white;
+  transition: all .5s;
 }
 
 ul.skills {
