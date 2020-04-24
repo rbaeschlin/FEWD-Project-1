@@ -84,8 +84,16 @@ header .profile-image:hover {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-
 }
+
+.hobbies-header {
+  text-align: center;
+  background: url('images/moab-arches-2019.jpg') no-repeat center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
 .tag {
   background-color: #efefef;
   color: black;
