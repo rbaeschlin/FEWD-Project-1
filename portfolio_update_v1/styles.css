@@ -77,6 +77,15 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.5) rotate(10deg);
 }
+
+.experience-header {
+  text-align: bottom;
+  background: url('images/railroad.jpg') no-repeat center top;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+
+}
 .tag {
   background-color: #efefef;
   color: black;
