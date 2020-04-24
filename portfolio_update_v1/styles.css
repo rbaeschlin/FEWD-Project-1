@@ -79,7 +79,7 @@ header .profile-image:hover {
 }
 
 .experience-header {
-  text-align: bottom;
+  text-align: center;
   background: url('images/railroad.jpg') no-repeat center top;
   background-size: cover;
   overflow: hidden;
