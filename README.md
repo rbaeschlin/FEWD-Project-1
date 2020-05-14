@@ -3,7 +3,7 @@
 
  Purpose: 
 
- Build a mobile first approach portfolio website that is responsive with multiple media query breakpoints.  I was given 3 mockups on how it should look at the different breakpoints and then coded it from scratch.
+ Use basic HTML and CSS to customize a pre-configured portfolio layout with new images, content, and custom styling.
 
  Languages:
 
